@@ -3,6 +3,14 @@
 ### Problem Statement: 
 This project involves a comprehensive analysis of the "Credit Card Customers" dataset. The financial industry relies heavily on understanding customer behavior and making data-driven decisions to improve customer experience, manage risk, and enhance profitability. Credit card companies, in particular, need to analyze their customer base to identify key trends, segment customers based on their usage patterns, and predict potential customer behaviors. The goal is to extract meaningful insights and build a predictive model that aids in customer segmentation and behavioral predictions.
 
+
+### Required libraries: 
+* Numpy
+* Pandas
+* matplotlib.pyplot
+* Seaborn
+
+
 ### Dataset Understanding:
 #### Dataset Description:
 * Customer demographics: Age, gender, education level, marital status, income category.
